@@ -11,7 +11,7 @@ Each system preference has its own directory, with file names describing the pur
 
 The repository is meant to be forked so that you can make and save local edits.
 
-Once you've forked the repository, go to the `Settings` at the top of the page of your fork. Scroll down to the section called `GitHub Pages` and set Source to `master branch`.
+Once you've forked the repository, go to the `Settings` link at the top of the page of your fork. Scroll down to the section called `GitHub Pages` and set Source to `master branch`.
 
 The link to your CSS file will be in
 
