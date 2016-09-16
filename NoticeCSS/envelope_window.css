@@ -35,6 +35,17 @@ div.address {
     height: 1.125in;
 }
 
+div.return_address {
+    position: relative;
+    border 0px;
+    padding 0px;
+    margin 0px;
+    top: 0.50in;
+    left: 0.800in;
+    width: 3.5in;
+    height: 1.125in;
+}
+
 /* Content will appear in the bottom 2/3 of a letter size page when printed. */
 div.content {
     position: relative;
