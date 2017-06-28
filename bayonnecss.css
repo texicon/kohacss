@@ -1,0 +1,3 @@
+@media print {
+    .notice {page-break-after: always;}
+}
