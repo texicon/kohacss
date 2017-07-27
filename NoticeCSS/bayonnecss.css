@@ -1,3 +1,5 @@
+.notice {page-break-after: always;}
+
 @media print {
     .notice {page-break-after: always;}
 }
