@@ -1,0 +1,29 @@
+.library_address {
+text-align:center;
+}
+
+.patron_address {
+float:left;
+
+}
+
+.message { page-break-after: always }
+pre { font-family: monospace }
+pre {white-space: pre-wrap;}
+pre {white-space: -moz-pre-wrap;}
+pre {white-space: -o-pre-wrap;}
+pre {word-wrap: break-work;}
+
+@media screen {
+    .page-break {
+        display: block;
+        page-break-before: always;
+    }
+}
+
+@media print {
+    .page-break {
+        display: block;
+        page-break-before: always;
+    }
+}
