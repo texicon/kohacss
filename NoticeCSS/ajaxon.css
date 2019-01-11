@@ -1,0 +1,20 @@
+#odue {
+  width: 8.5in;
+  padding-left: 1in;
+}
+
+#odue p {
+  white-space: normal;
+}
+
+#odue pre {
+  word-break: keep-all;
+}
+
+#odue {
+  height: 11in;
+}
+
+#toAddress {
+   padding-top: 72px;
+}
