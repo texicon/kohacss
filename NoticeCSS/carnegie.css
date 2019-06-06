@@ -1,1 +1,39 @@
+#odue {
+  font-size: 12pt;
+  width: 8.5in;
+  padding: 0.90in;
+  margin-top: 1in;
+}
 
+#odue p {
+  white-space: normal;
+}
+
+#odue pre {
+  word-break: keep-all;
+}
+
+#odue {
+  height: 11in;
+}
+
+#toAddress {
+   padding-top: 1em;
+}
+
+#today {
+   padding-top: 1em;
+}
+
+#oduematerial {
+   font-size: 125%;
+    font-weight: bold; 
+    border-top: 2px dashed black;
+    padding-top: 1em;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
