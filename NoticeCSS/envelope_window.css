@@ -2,11 +2,11 @@ pre { font-family: "Arial Black", sans-serif; }
 pre { font-size: 10pt; }
 
 .message {
-    top::0px;
-    left: 0px;
-    border: 0px;
-    padding: 0px;
-    margin: 0px;
+    top::10px;
+    left: 10px;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
 }
 
 .billing_notice, body {
@@ -16,7 +16,7 @@ pre { font-size: 10pt; }
 }
 
 .return_address_top {
- margin-bottom:15px;   
+ margin-bottom:125px;   
     
 }
 
@@ -37,9 +37,9 @@ pre { font-size: 10pt; }
 
 div.address {
     position: relative;
-    border 0px;
-    padding 0px;
-    margin 0px;
+    border 08px;
+    padding 08px;
+    margin 10px;
     top: -0.375in;
     left: 0.800in;
     width: 4.5in;
@@ -48,9 +48,9 @@ div.address {
 
 div.return_address {
     position: relative;
-    border 0px;
-    padding 0px;
-    margin 0px;
+    border 10px;
+    padding 10px;
+    margin 10px;
     top: 0.50in;
     left: 0.800in;
     width: 3.5in;
